@@ -1,0 +1,19 @@
+{
+  "matplotlib": {
+    "tricks":"https://camo.githubusercontent.com/62a744e98372f7aaad377cf1f535dcc10117ff196c876102682b03ca4759f420/68747470733a2f2f6d6174706c6f746c69622e6f72672f63686561747368656574732f68616e646f75742d746970732e706e67",
+    "intermediate":"https://camo.githubusercontent.com/fc055a0d3897e7aec7ec66fc1d7f70cfb2873f82eb5be4ea977286a1cf08fa74/68747470733a2f2f6d6174706c6f746c69622e6f72672f63686561747368656574732f68616e646f75742d696e7465726d6564696174652e706e67",
+    "begginers":"https://camo.githubusercontent.com/b1b8838502a81077591ccadbf45dc45f2207637b41245e557198b680b0a2e662/68747470733a2f2f6d6174706c6f746c69622e6f72672f63686561747368656574732f68616e646f75742d626567696e6e65722e706e67",
+  },
+  "yfinance":{
+    "doc":"https://pypi.org/project/yfinance/",
+  },
+  "definitions":{
+    "social_score":"https://www.octoboard.com/blog/measuring-social-score/",
+  }
+  "markets":{
+    "stocks":
+    "cryptocurrencies":
+    "NFTs":
+    ""
+  },
+}
